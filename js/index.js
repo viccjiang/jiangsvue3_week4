@@ -21,7 +21,7 @@ const app = createApp({
     return {
       // 使用 function return
       // 加入站點
-      apiUrl: 'https:///vue3-course-api.hexschool.io',
+      apiUrl: 'https://vue3-course-api.hexschool.io',
       // 加入個人 API Path
       apiPath: 'jiangsvue3',
       products: [],// 產品列表
