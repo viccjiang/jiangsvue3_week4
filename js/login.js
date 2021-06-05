@@ -5,7 +5,7 @@ createApp({
     return {
       // 使用 function return
       // 加入站點
-      url: 'https:///vue3-course-api.hexschool.io',
+      url: 'https://vue3-course-api.hexschool.io',
       // 加入 API Path
       path: 'jiangsvue3',
       user: {
