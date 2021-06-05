@@ -165,7 +165,7 @@ const app = createApp({
       // promise 先跳出提示視窗，按確定後才跳轉回登入頁
       alert('您尚未登入請重新登入。')
         .then(() => {
-          window.location = 'login.html';
+          window.location = './login.html';
         })
         .catch((error) => {
           console.log(error);
